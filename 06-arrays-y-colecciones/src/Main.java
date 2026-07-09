@@ -37,6 +37,6 @@ public class Main {
 
         int deletePosition = 2;
 
-        
+
     }
 }
